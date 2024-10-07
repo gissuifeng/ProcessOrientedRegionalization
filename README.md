@@ -30,7 +30,7 @@ The implementation principles of the process-oriented geographical regionalizati
 
 ## Graphic abstract
 
-![Graphic Abstract: Process-oriented Geographical Regionalization](GraphicAbstract_.png "Process-oriented Geographical Regionalization Model")
+![Graphic Abstract: Process-oriented Geographical Regionalization](GraphicAbstract.png "Process-oriented Geographical Regionalization Model")
 
 ## Contact
 
