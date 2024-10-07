@@ -28,6 +28,10 @@ The implementation principles of the process-oriented geographical regionalizati
 1. **Code_for_Calculating_Silhouette_Coefficient, Data_for_calculating_the_silhouette_coefficient_of_the_result**: Theoe are the original source code and data corresponding to the paper.
 2. **Toolbox for ArcGIS Pro**: This includes the ArcGIS Pro toolbox for geographical process regionalization, the implementation code for the tools, and test data. The code here has been optimized for both efficiency and accuracy of the algorithm.We encourage users to refer to the code provided here rather than the original version.
 
+## Graphic abstract
+
+![Graphic Abstract: Process-oriented Geographical Regionalization](GraphicAbstract.png "Process-oriented Geographical Regionalization Model")
+
 ## Contact
 
 For questions or feedback, please [contact us](mailto:zhanghaiping@igsnrr.ac.cn).
