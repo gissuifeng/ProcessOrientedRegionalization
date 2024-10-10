@@ -18,7 +18,7 @@ def script_tool(featureclass, region_id, output_neighbor_metrix_file):
                 neighbors[current_id] = set()
             
             # 再次遍历所有要素以找到邻居
-            with arcpy.da.SearchCursor(featureclass, ["SHAPE@", "region_id"]) as cursor2:
+            with arcpy.da.SearchCursor(featureclass, ["SHAPE@", region_id]) as cursor2:
                 for row2 in cursor2:
                     neighbor_shape = row2[0]
                     neighbor_id = row2[1]
