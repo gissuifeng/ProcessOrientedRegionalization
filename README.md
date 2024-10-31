@@ -1,4 +1,4 @@
-## Source code and ArcGIS Pro Toolbox for Process-oriented Geographical Regionalization
+## Source code and ArcGIS Pro toolbox for Process-oriented Geographical Regionalization
 Process-oriented geographical regionalization is a novel paradigm for delineating regions based on geographical processes. It involves merging spatially adjacent areas with similar geographical processes while separating areas with dissimilar processes. The ultimate goal is to divide the entire study area into multiple subregions, where each subregion exhibits relatively homogeneous geographical processes internally, while different subregions display heterogeneous processes. This approach ensures that within each subregion, geographical processes are similar, but between subregions, these processes are distinct. This concept forms the fundamental principle of process-oriented geographical regionalization.
 
 # Process-oriented Geographical Regionalization
